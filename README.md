@@ -14,7 +14,6 @@ Repository Structure
 
    scripts\Setup_01_Prerequisites.bat
    scripts\Setup_02_Python_Environments.bat
-   scripts\Setup_02_Python_Environments.bat
    python scripts\folder_tree.py
    ## Project Components
 
